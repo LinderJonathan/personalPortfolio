@@ -33,19 +33,3 @@ function App() {
 }
 
 export default App
-
-function Container() {
-
-}
-
-function Navbar() {
-
-}
-
-function Project() {
-
-}
-
-function Paragraph() {
-  
-}
