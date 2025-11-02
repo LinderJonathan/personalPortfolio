@@ -1,6 +1,6 @@
 import '../App.css'
 
-type containerBlockProps = {
+export type containerBlockProps = {
     description: string
     subtitle?: string    // optional
     imageSource?: string // optional

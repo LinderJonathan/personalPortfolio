@@ -4,6 +4,7 @@ function Contact() {
             <div className="main-message">
                 Contact me
             </div>
+            // TODO: when done, add container
         </>
     )
 }
