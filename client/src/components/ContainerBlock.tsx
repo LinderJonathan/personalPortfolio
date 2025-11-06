@@ -15,7 +15,7 @@ function ContainerBlock({description, subtitle, imageSource}:containerBlockProps
                     alt="../assets/profileCropped.jpg"
                 />
             )}
-            {subtitle && (<div>{subtitle}</div>)}
+            {subtitle && (<div className='containerBlockSubtitle'>{subtitle}</div>)}
 
             <div className="containerBlockDescription">
                 { description }
