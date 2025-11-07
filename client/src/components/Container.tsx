@@ -18,7 +18,7 @@ function Container({pageMessage, blocks}: containerProps) {
   for (const block of blocks) {
 
     renderedBlocks.push(
-    <div className={k%2 === 0 ? "containerBlockLeft" : "containerBlockRight"}>
+    <div className="containerBlock" id={k%2 === 0 ? "left" : "right"}>
       <ContainerBlock 
         key={block.id} 
         description={block.description}
