@@ -23,7 +23,7 @@ function ContainerBlock({ description, subtitle, imageSource, align }: container
                         alt="../assets/profileCropped.jpg"
                     />
                 )}
-                {subtitle && (<div className='subtitle'>{subtitle}</div>)}
+                {subtitle && (<h2 className='subtitle'>{subtitle}</h2>)}
 
                 <div className='description'>
                     { description }

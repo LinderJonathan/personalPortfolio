@@ -21,7 +21,7 @@ function Container({pageMessage, blocks}: containerProps) {
         description={block.description}
         subtitle={block.subtitle}
         imageSource={block.imageSource}
-        align={blockIndex % 2 === 0 ? 'left' : 'right'}
+        align={blockIndex % 2 === 0 ? 'right' : 'left'}
       />
     )
     blockIndex++
