@@ -12,7 +12,6 @@ function Portfolio() {
                 {
                     id: '1',
                     description:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum laudantium necessitatibus inventore perferendis iusto omnis nam debitis ea modi nesciunt magnam praesentium, voluptatum magni quod! Cumque nobis deleniti eos dolor?',
-                    imageSource:'../src/assets/profileCropped.jpg',
                     subtitle:'Project title 1'
                 },
                 {
