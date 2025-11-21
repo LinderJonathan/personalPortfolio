@@ -15,7 +15,7 @@ function Portfolio() {
                 },
                 {
                     id:'2',
-                    description:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum laudantium necessitatibus inventore perferendis iusto omnis nam debitis ea modi nesciunt magnam praesentium, voluptatum magni quod! Cumque nobis deleniti eos dolor?',
+                    description:'Testing deploy tag dolor sit amet consectetur adipisicing elit. Ipsum laudantium necessitatibus inventore perferendis iusto omnis nam debitis ea modi nesciunt magnam praesentium, voluptatum magni quod! Cumque nobis deleniti eos dolor?',
                     imageSource:'../src/assets/profileCropped.jpg',
                     subtitle:'Project title 2'
                 },
