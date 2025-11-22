@@ -1,6 +1,8 @@
 import '../components/ContainerBlock'
 import '../components/Container'
 import Container from '../components/Container'
+import microSensorImg from '../assets/microSensorNet.png'
+import profileCroppedImg from '../assets/profileCropped.jpg'
 
 function Portfolio() {
     return (
@@ -16,13 +18,13 @@ function Portfolio() {
                 {
                     id:'2',
                     description:'Testing deploy tag dolor sit amet consectetur adipisicing elit. Ipsum laudantium necessitatibus inventore perferendis iusto omnis nam debitis ea modi nesciunt magnam praesentium, voluptatum magni quod! Cumque nobis deleniti eos dolor?',
-                    imageSource:'../src/assets/profileCropped.jpg',
+                    imageSource:microSensorImg,
                     subtitle:'Project title 2'
                 },
                 {
                     id:'3',
                     description:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum laudantium necessitatibus inventore perferendis iusto omnis nam debitis ea modi nesciunt magnam praesentium, voluptatum magni quod! Cumque nobis deleniti eos dolor?',
-                    imageSource:'../src/assets/profileCropped.jpg',
+                    imageSource:profileCroppedImg,
                     subtitle:'Project title 3'
                 }
 
